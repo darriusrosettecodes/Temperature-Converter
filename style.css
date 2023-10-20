@@ -56,8 +56,10 @@ body{
 }
 @media screen and (max-width:496px){
     .js-input-title{
+        font-size: 1.7em; 
+    }
+    .display-result{
         font-size: 1.7em;
-        
     }
 }
 @media screen and (max-width:433px) {
